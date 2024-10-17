@@ -1,4 +1,4 @@
-# daftar-biodata-siswa
+daftar-biodata-siswa
 ==
 Daftar biodata mahasiswa kelas 5C
 --
